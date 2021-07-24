@@ -1,6 +1,3 @@
-# MuhammedEminTAŞ
-
-
 <h1 align="center">Hi 👋, I'm Muhammed Emin TAŞ</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
